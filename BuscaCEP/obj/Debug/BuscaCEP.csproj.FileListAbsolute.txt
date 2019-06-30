@@ -1,0 +1,13 @@
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.BuscaCEP.resources
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.Properties.Resources.resources
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.GenerateResource.cache
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.CoreCompileInputs.cache
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe.config
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.exe
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\bin\Debug\BuscaCEP.pdb
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\bin\Debug\Correios.dll
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\bin\Debug\Correios.pdb
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csprojAssemblyReference.cache
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.csproj.CopyComplete
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.exe
+C:\Projetos\RestWithASP-NET\BuscaCEP\BuscaCEP\obj\Debug\BuscaCEP.pdb
